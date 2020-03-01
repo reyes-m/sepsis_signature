@@ -1,1 +1,1 @@
-# sepsis_signature
+# An immune-cell signature of bacterial sepsis
