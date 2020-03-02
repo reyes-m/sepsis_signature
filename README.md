@@ -9,5 +9,7 @@ To run the notebooks, the following data objects and auxilliary files need to be
 * matrix_clustered.h5ad
 * matrix_ms1_sort.h5ad
 * matrix_bm.h5ad
+* fc_abundance_table.csv
+* clinical_data.csv
 
 For additional code or questions, please contact Miguel Reyes (msreyes@broadinstitute.org)
