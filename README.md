@@ -12,4 +12,9 @@ To run the notebooks, the following data objects and auxilliary files need to be
 * fc_abundance_table.csv
 * clinical_data.csv
 
+The datasets are also uploaded on the Broad Single Cell Portal for secondary analysis and visualization:
+
+* [Patient PBMCs] (https://singlecell.broadinstitute.org/single_cell/study/SCP548/an-immune-cell-signature-of-bacterial-sepsis-patient-pbmcs#study-visualize)
+* [Bone marrow stimulation](https://singlecell.broadinstitute.org/single_cell/study/SCP550/an-immune-cell-signature-of-bacterial-sepsis-bone-marrow-stimulation#study-visualize)
+
 For additional code or questions, please contact Miguel Reyes (msreyes@broadinstitute.org)
