@@ -12,7 +12,7 @@ To run the notebooks, the following data objects and auxilliary files need to be
 * ms1_sort_table.csv
 * ms1_cNMF_usage.txt
 
-The datasets are also available on SCP for secondary analysis and visualization:
+The datasets are also available on the Single Cell Portal for secondary analysis and visualization:
 
 * [Patient PBMCs](https://singlecell.broadinstitute.org/single_cell/study/SCP548/an-immune-cell-signature-of-bacterial-sepsis-patient-pbmcs#study-visualize) 
 * [Bone marrow stimulation](https://singlecell.broadinstitute.org/single_cell/study/SCP550/an-immune-cell-signature-of-bacterial-sepsis-bone-marrow-stimulation#study-visualize)
