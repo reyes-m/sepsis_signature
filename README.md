@@ -19,4 +19,4 @@ The datasets are also uploaded on the Single Cell Portal for secondary analysis 
 * [Patient PBMCs](https://singlecell.broadinstitute.org/single_cell/study/SCP548/an-immune-cell-signature-of-bacterial-sepsis-patient-pbmcs#study-visualize) 
 * [Bone marrow stimulation](https://singlecell.broadinstitute.org/single_cell/study/SCP550/an-immune-cell-signature-of-bacterial-sepsis-bone-marrow-stimulation#study-visualize)
 
-For additional code or questions, please contact Miguel Reyes (msreyes@broadinstitute.org)
+For questions, please contact Miguel Reyes (msreyes@broadinstitute.org)
