@@ -11,6 +11,8 @@ To run the notebooks, the following data objects and auxilliary files need to be
 * matrix_bm.h5ad
 * fc_abundance_table.csv
 * clinical_data.csv
+* ms1_sort_table.csv
+* ms1_cNMF_usage.txt
 
 The datasets are also uploaded on the Single Cell Portal for secondary analysis and visualization:
 
